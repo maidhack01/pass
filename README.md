@@ -1,1 +1,1 @@
-# pass
+pass.txt && rockyou.txt
